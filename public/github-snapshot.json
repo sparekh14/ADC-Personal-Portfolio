@@ -1,0 +1,117 @@
+{
+  "repositories": [
+    {
+      "id": 1400559457,
+      "name": "ADC-Personal-Portfolio",
+      "description": null,
+      "url": "https://github.com/sparekh14/ADC-Personal-Portfolio",
+      "language": "CSS",
+      "stars": 0,
+      "updated_at": "2026-10-01T18:38:49Z",
+      "topics": []
+    },
+    {
+      "id": 1002200680,
+      "name": "Personal-Portfolio",
+      "description": null,
+      "url": "https://github.com/sparekh14/Personal-Portfolio",
+      "language": "TypeScript",
+      "stars": 0,
+      "updated_at": "2026-08-20T02:53:37Z",
+      "topics": []
+    },
+    {
+      "id": 1010742453,
+      "name": "Matchrimoney",
+      "description": null,
+      "url": "https://github.com/sparekh14/Matchrimoney",
+      "language": "TypeScript",
+      "stars": 0,
+      "updated_at": "2025-12-03T00:51:20Z",
+      "topics": []
+    },
+    {
+      "id": 1032755652,
+      "name": "phenom",
+      "description": null,
+      "url": "https://github.com/sparekh14/phenom",
+      "language": "JavaScript",
+      "stars": 0,
+      "updated_at": "2025-08-12T20:03:25Z",
+      "topics": []
+    },
+    {
+      "id": 737197905,
+      "name": "Resume",
+      "description": null,
+      "url": "https://github.com/sparekh14/Resume",
+      "language": null,
+      "stars": 0,
+      "updated_at": "2025-07-26T15:48:55Z",
+      "topics": []
+    },
+    {
+      "id": 1011421393,
+      "name": "sparekh14",
+      "description": null,
+      "url": "https://github.com/sparekh14/sparekh14",
+      "language": null,
+      "stars": 0,
+      "updated_at": "2025-06-30T19:47:44Z",
+      "topics": []
+    },
+    {
+      "id": 551686799,
+      "name": "Personal-Projects",
+      "description": null,
+      "url": "https://github.com/sparekh14/Personal-Projects",
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2025-06-30T19:37:41Z",
+      "topics": []
+    },
+    {
+      "id": 687231524,
+      "name": "Hackathons",
+      "description": "A collection of my hackathon projects",
+      "url": "https://github.com/sparekh14/Hackathons",
+      "language": "Python",
+      "stars": 0,
+      "updated_at": "2025-06-30T19:13:30Z",
+      "topics": []
+    },
+    {
+      "id": 855426013,
+      "name": "AI-Flashcards",
+      "description": null,
+      "url": "https://github.com/sparekh14/AI-Flashcards",
+      "language": "JavaScript",
+      "stars": 0,
+      "updated_at": "2025-06-30T19:00:29Z",
+      "topics": []
+    },
+    {
+      "id": 857423478,
+      "name": "My-Money-Tracker",
+      "description": null,
+      "url": "https://github.com/sparekh14/My-Money-Tracker",
+      "language": "JavaScript",
+      "stars": 0,
+      "updated_at": "2024-09-15T02:45:53Z",
+      "topics": []
+    },
+    {
+      "id": 833714614,
+      "name": "React.js-Gym-App",
+      "description": "React web-app to formulate the ideal workout",
+      "url": "https://github.com/sparekh14/React.js-Gym-App",
+      "language": "JavaScript",
+      "stars": 0,
+      "updated_at": "2024-09-10T21:41:16Z",
+      "topics": []
+    }
+  ],
+  "source": "snapshot",
+  "fetched_at": "2026-10-29T19:00:52.963167+00:00",
+  "message": "Saved public GitHub data; the live backend is unavailable."
+}

@@ -1,0 +1,9 @@
+services:
+  mongodb:
+    image: mongo:8.0
+    ports:
+      - "127.0.0.1:27017:27017"
+    volumes:
+      - portfolio_mongo_demo:/data/db
+volumes:
+  portfolio_mongo_demo:
